@@ -98,3 +98,16 @@ Startup é uma empresa em fase inicial que:
 
 > “Empreender é um processo de descoberta. Aqui ninguém precisa ter todas as respostas, só disposição para tentar, ouvir e ajustar.  
 > Vamos aprender a transformar ideias em soluções de verdade.”
+
+## 🎯 Resultado Esperado — Atividade 1
+
+Ao final da Aula 1, cada aluno (ou grupo) deverá:
+
+- Identificar **um problema real** que gostaria de resolver.
+- Elaborar uma **pesquisa de mercado simples**, contendo pelo menos 5 perguntas que ajudem a validar se outras pessoas enfrentam esse mesmo problema.
+- Aplicar a pesquisa com **pelo menos 10 pessoas reais** (amigos, familiares, redes sociais etc.).
+- Trazer os resultados da pesquisa na próxima aula, com:
+  - O **problema escolhido**
+  - Um **resumo dos dados coletados**
+  - Primeiros **insights** sobre possíveis soluções
+  - Uma **decisão inicial** sobre qual problema vão explorar para criar a startup até o final do curso
